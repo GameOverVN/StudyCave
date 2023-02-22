@@ -1,0 +1,3 @@
+C:/Code/OPI Lab 1/cmake-build-debug/CMakeFiles/OPI_Lab_1.dir
+C:/Code/OPI Lab 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Code/OPI Lab 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
