@@ -1,0 +1,3 @@
+C:/Code/VP Lab 1-2/cmake-build-debug/CMakeFiles/VP_Lab_1_2.dir
+C:/Code/VP Lab 1-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Code/VP Lab 1-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
